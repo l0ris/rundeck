@@ -1,6 +1,6 @@
 FROM centos:latest
 
-MAINTAINER Fabiano Florentino <fabiano.apk@gmail.com>
+MAINTAINER Fabiano Florentino <fabiano.apk@gmail.com> 1.0
 
 #
 # CentOS KEY REPO
