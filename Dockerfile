@@ -1,6 +1,3 @@
-#
-# Rundeck Install on CentOS 7
-#
 FROM centos:latest
 
 MAINTAINER Fabiano Florentino <fabiano.apk@gmail.com>
